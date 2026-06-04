@@ -1,0 +1,88 @@
+# Validation Report - household-cleaning-tips
+
+Generated: 2026-06-04T11:36:32.608112
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Household Cleaning Tips
+- ✓ Article word count OK: Beginner Household Cleaning Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Household Cleaning Tips
+- ✓ Article word count OK: Beginner Household Cleaning Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Household Cleaning Tips
+- ✓ Article word count OK: Beginner Household Cleaning Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Household Cleaning Tips
+- ✓ Article word count OK: Common Mistakes in Beginner Household Cleaning Tips
+- ✓ Article word count OK: Beginner Household Cleaning Tips for Beginners
+- ✓ Article word count OK: Advanced Beginner Household Cleaning Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Household Cleaning Tips
+- ✓ Article word count OK: Advanced Household Cleaning Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Household Cleaning Tips
+- ✓ Article word count OK: Advanced Household Cleaning Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Household Cleaning Tips
+- ✓ Article word count OK: Advanced Household Cleaning Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Household Cleaning Tips
+- ✓ Article word count OK: Common Mistakes in Advanced Household Cleaning Tips
+- ✓ Article word count OK: Advanced Household Cleaning Tips for Beginners
+- ✓ Article word count OK: Advanced Advanced Household Cleaning Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Household Cleaning Tips Tips
+- ✓ Article word count OK: Household Cleaning Tips Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Household Cleaning Tips Tips
+- ✓ Article word count OK: Household Cleaning Tips Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Household Cleaning Tips Tips
+- ✓ Article word count OK: Household Cleaning Tips Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Household Cleaning Tips Tips
+- ✓ Article word count OK: Common Mistakes in Household Cleaning Tips Tips
+- ✓ Article word count OK: Household Cleaning Tips Tips for Beginners
+- ✓ Article word count OK: Advanced Household Cleaning Tips Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Household Cleaning Tips History
+- ✓ Article word count OK: Household Cleaning Tips History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Household Cleaning Tips History
+- ✓ Article word count OK: Household Cleaning Tips History Tips and Best Practices
+- ✓ Article word count OK: The History of Household Cleaning Tips History
+- ✓ Article word count OK: Household Cleaning Tips History in 2026: Current Trends
+- ✓ Article word count OK: Future of Household Cleaning Tips History
+- ✓ Article word count OK: Common Mistakes in Household Cleaning Tips History
+- ✓ Article word count OK: Household Cleaning Tips History for Beginners
+- ✓ Article word count OK: Advanced Household Cleaning Tips History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Household Cleaning Tips
+- ✓ Article word count OK: Trending Household Cleaning Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Household Cleaning Tips
+- ✓ Article word count OK: Trending Household Cleaning Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Household Cleaning Tips
+- ✓ Article word count OK: Trending Household Cleaning Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Household Cleaning Tips
+- ✓ Article word count OK: Common Mistakes in Trending Household Cleaning Tips
+- ✓ Article word count OK: Trending Household Cleaning Tips for Beginners
+- ✓ Article word count OK: Advanced Trending Household Cleaning Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Household Cleaning Tips Tutorials
+- ✓ Article word count OK: Household Cleaning Tips Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Household Cleaning Tips Tutorials
+- ✓ Article word count OK: Household Cleaning Tips Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Household Cleaning Tips Tutorials
+- ✓ Article word count OK: Household Cleaning Tips Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Household Cleaning Tips Tutorials
+- ✓ Article word count OK: Common Mistakes in Household Cleaning Tips Tutorials
+- ✓ Article word count OK: Household Cleaning Tips Tutorials for Beginners
+- ✓ Article word count OK: Advanced Household Cleaning Tips Tutorials Techniques
+- ✓ Ad configuration validated
